@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="ColorEquality\ColorEquality.csproj" />
+  <Project Path="TaskScheduler\TaskScheduler.csproj" />
+  <Project Path="FlexibleInventory\FlexibleInventory.csproj" />
+  <Project Path="AuctionHouse\AuctionHouse.csproj" />
+</Solution>
